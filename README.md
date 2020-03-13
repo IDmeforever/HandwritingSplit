@@ -1,0 +1,2 @@
+# HandwritingSplit
+按照像素密度进行手写文字图像的文字切分
